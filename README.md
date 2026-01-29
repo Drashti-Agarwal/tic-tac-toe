@@ -1,4 +1,4 @@
 # tic-tac-toe
 game 
-## Author
-- Drashti Agarwal
+## number guessing game
+- game
